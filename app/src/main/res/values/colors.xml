@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_main_color">#FF000000</color>
+    <color name="msg_color">#FF767676</color>
+    <color name="hint_color">#FF777777</color>
+
+    <color name="progress_area_stroke_color">#FFB1B1B1</color>
+    <color name="progress_bar_default">#FFD9D9D9</color>
+    <color name="progress_bar_completed">#FF5093E1</color>
+
+    <color name="add_btn_bg_color">#FF637CFF</color>
+    <color name="dialog_btn_stroke_color">#FF646464</color>
+
+    <color name="list_color1">#FFB799E9</color>
+    <color name="list_color2">#FF40D67C</color>
+    <color name="list_color3">#FF648EFA</color>
+    <color name="list_color4">#FF8DDDF6</color>
+    <color name="list_color5">#FF60D2BE</color>
+</resources>
